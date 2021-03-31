@@ -124,7 +124,7 @@ def is_list(a_list):
 print(is_list(user_data))
 
 
-# Create a function called get_percentage, takes two integers as argument s , returns the percentage of two
+# Create a function called get_percentage, takes two integers as arguments , returns the percentage of two
 def get_percentage(num1, num2):
     percent_num1 = (num1/num2) * 100
     return percent_num1
