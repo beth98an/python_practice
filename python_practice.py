@@ -11,3 +11,19 @@
 # for num in num_list:
 #     print(num)
 
+# # Write the boolean operators
+# # if a == b and c == d: print(TRUE)
+# if "a" == "b" and "c" == "d":
+#     print(True)
+
+# create a list of five numbers starting from 0
+numbers = [0, 1, 2, 3, 4]
+
+# create a tuple with the same information
+num_tuple = tuple(numbers)
+
+# change the value to the tuple in the last index
+
+# cannot change a tuple
+# because tuples are IMMUTABLE
+# unlike lists, that can be changed as they are MUTABLE
